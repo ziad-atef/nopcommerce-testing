@@ -1,0 +1,6 @@
+#Excluding files genersted by the IDE
+.idea
+#Excluding plugins
+target
+#Excluding any web drivers used
+/src/main/resources/*.exe
