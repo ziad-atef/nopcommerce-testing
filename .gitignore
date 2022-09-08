@@ -1,0 +1,10 @@
+#Excluding files genersted by the IDE
+.idea
+
+#Excluding plugins & artifacts while still including the test reports
+!target/
+target/*
+!target/cucumber-html-reports
+
+#Excluding any web drivers used
+/src/main/resources/*.exe
