@@ -1,7 +1,7 @@
 # nopcommerce-testing
 
 ## Tests results
-> [Web Report](https://rawcdn.githack.com/ziad-atef/nopcommerce-testing/c2aa0cf22f4a4865bac61ab14740a51ba4e2fa54/target/cucumber-html-reports/overview-features.html)
+> [Web Report](https://rawcdn.githack.com/ziad-atef/nopcommerce-testing/ca5f87d8060047407c3d73316763100b6483b933/target/cucumber-html-reports/overview-features.html)
 
 ## Prerequisites
 * JDK 8+ (recommended JDK 17)
