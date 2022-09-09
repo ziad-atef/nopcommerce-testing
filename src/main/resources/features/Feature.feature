@@ -1,3 +1,0 @@
-@smoke
-
-Feature: Feature
